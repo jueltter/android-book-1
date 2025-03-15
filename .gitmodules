@@ -1,3 +1,6 @@
 [submodule "android-book-1-1-1"]
 	path = android-book-1-1-1
 	url = https://github.com/jueltter/android-book-1-1-1.git
+[submodule "android-book-1-1-2"]
+	path = android-book-1-1-2
+	url = https://github.com/jueltter/android-book-1-1-2.git
